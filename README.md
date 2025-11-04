@@ -1,2 +1,8 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# dsci-100-project_individual
+Project creation date: Oct.6th 
+
+Section: 003
+
+Group: 18
+
+Author: Tiger Wang et Al
