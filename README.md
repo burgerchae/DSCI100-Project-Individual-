@@ -1,2 +1,5 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# DSCI 100 Project
+
+Section: 003  
+Group 18  
+Members: Tiger Wang et Al
